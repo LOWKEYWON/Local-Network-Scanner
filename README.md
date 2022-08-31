@@ -1,7 +1,9 @@
 # WELCOME
 # PREREQUISITES:-
 1)Python
+
 2)PIP
+
 3)Nmap
 
 sudo apt install python3-pip
