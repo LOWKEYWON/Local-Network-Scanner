@@ -1,5 +1,5 @@
 # WELCOME
-# PREREQUISTES:-
+# PREREQUISITES:-
 1)Python
 2)PIP
 3)Nmap
