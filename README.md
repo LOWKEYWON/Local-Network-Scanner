@@ -3,7 +3,7 @@
 # TO EXIT SCRIPTS
 "Ctrl + C" 
 
-# LOCAL-NETWORK-SCANNER 
+# NETWORK-SCANNER 
 Used to scan the number of devices alive on your local network or wifi using "ARP" to send and recieve packets.
 Enter the network and the ip-range.(eg:- 192.168.8.0/24)
 
