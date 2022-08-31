@@ -7,7 +7,9 @@
 3)Nmap
 
 sudo apt install python3-pip
+
 pip install python3-nmap
+
 (installing pyton nmap to execute nmap commands within the python script.)
 
 # TO EXIT SCRIPTS
